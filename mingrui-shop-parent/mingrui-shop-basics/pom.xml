@@ -12,7 +12,7 @@
     <groupId>com.baidu</groupId>
     <artifactId>mingrui-shop-basics</artifactId>
 
-    <!--父级项目不需要打包所有packging的类型为pom   -->
+    <!--父级项目不需要打包所有packging的类型为pom-->
     <packaging>pom</packaging>
     <modules>
         <module>mingrui-shop-basics-eureka-server</module>
