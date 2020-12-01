@@ -12,6 +12,7 @@
         <module>mingrui-shop-commoms</module>
         <module>mingrui-shop-service</module>
         <module>mingrui-shop-service-api</module>
+
     </modules>
 
     <!--父级项目不需要打包所有packging的类型为pom-->
@@ -31,10 +32,11 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.2.2.RELEASE</version>
+        <version>2.3.1.RELEASE</version>
         <!--始终从仓库中获取，不从本地路径获取-->
         <relativePath />
     </parent>
+
 
     <dependencies>
         <!-- 集成commons工具类 -->
