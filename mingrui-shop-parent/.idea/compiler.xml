@@ -9,29 +9,29 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mingrui-shop-service-sale" />
         <module name="mingrui-shop-common-core" />
-        <module name="mingrui-shop-service-api-order" />
+        <module name="mingrui-shop-common-oauth" />
         <module name="mingrui-shop-service-api-search" />
         <module name="mingrui-shop-service-search" />
+        <module name="mingrui-shop-service-api-order" />
         <module name="mingrui-shop-basics-zuul-server" />
-        <module name="mingrui-shop-basics-eureka-server" />
-        <module name="mingrui-shop-service-api-pay" />
-        <module name="mingrui-shop-service-user" />
+        <module name="mingrui-shop-service-xxx" />
+        <module name="mingrui-shop-basic-user-oauth" />
         <module name="mingrui-shop-service-order" />
-        <module name="mingrui-shop-common-oauth" />
-        <module name="mingrui-shop-service-pay" />
+        <module name="mingrui-shop-service-api-car" />
+        <module name="mingrui-shop-server-api-xxx" />
         <module name="mingrui-shop-service-api-user" />
         <module name="mingrui-shop-service-api-xxx" />
         <module name="mingrui-shop-service-sale-api" />
         <module name="mingrui-shop-service-api-template" />
         <module name="mingrui-shop-service-car" />
-        <module name="mingrui-shop-service-api-car" />
-        <module name="mingrui-shop-server-api-xxx" />
-        <module name="mingrui-shop-service-xxx" />
-        <module name="mingrui-shop-basic-user-oauth" />
+        <module name="mingrui-shop-service-user" />
+        <module name="mingrui-shop-service-pay" />
+        <module name="mingrui-shop-basics-eureka-server" />
+        <module name="mingrui-shop-basic-log-server" />
         <module name="mingrui-shop-basic-upload-server" />
         <module name="mingrui-shop-service-template" />
         <module name="mingrui-shop-service-miaosha" />
-        <module name="mingrui-shop-basic-log-server" />
+        <module name="mingrui-shop-service-api-pay" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
